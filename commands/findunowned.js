@@ -29,7 +29,7 @@ module.exports = {
 		var version = 0;
 		
 		if(args.length > 0)
-			game = args[0];
+			game = args[0].toLowerCase();
 		if(args.length > 1)
 			version = args[1];
 			

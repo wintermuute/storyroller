@@ -17,7 +17,7 @@ module.exports = {
 		{
 			for(var j = 0; j < args.length; j++)
 			{
-				if(args[j] == booklist[i].book)
+				if(args[j].toLowerCase() == booklist[i].book.toLowerCase())
 				{
 					var ownership = "Unowned";
 					if(booklist[i].owned == true)
