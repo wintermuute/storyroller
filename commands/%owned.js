@@ -78,12 +78,14 @@ module.exports = {
 		
 		var percentage = ((total - owned)/total)*100;
 					
+		percentage = percentage.toFixed(2);
+		
 		if(game != "")
 			game += " ";
 		if(version != 0)
-			version = " ";
+			version += " ";
 					
-		message.channel.send(`You own ${percentage}% ($(owned)/(total)) of all ${game}${version}books.`);
+		message.channel.send(`You own ${percentage}% (${owned}/{total}) of all ${game}${version}books.`);
 			
 	}
 };
