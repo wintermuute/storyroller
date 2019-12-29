@@ -611,7 +611,7 @@
         "book": 2301,
         "title": "Vampire Storytellers Companion (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -1579,7 +1579,7 @@
         "book": 3076,
         "title": "Nuwisha",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -1635,7 +1635,7 @@
         "book": 3083,
         "title": "Rokea",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -1731,7 +1731,7 @@
         "book": 3109,
         "title": "Book of the Wyrm 2nd Edition",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -1755,7 +1755,7 @@
         "book": 3112,
         "title": "Croatan Song",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -1835,7 +1835,7 @@
         "book": 3207,
         "title": "Werewolf Chronicles Volume 1",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -3027,7 +3027,7 @@
         "book": 6007,
         "title": "Wraith Players Guide",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3035,7 +3035,7 @@
         "book": 6008,
         "title": "Quick and the Dead",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3067,7 +3067,7 @@
         "book": 6012,
         "title": "Dark Kingdom of Jade Adventures",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3091,7 +3091,7 @@
         "book": 6060,
         "title": "Haunts",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3171,7 +3171,7 @@
         "book": 6302,
         "title": "Risen",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3267,7 +3267,7 @@
         "book": 7004,
         "title": "Autumn People",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
@@ -3419,7 +3419,7 @@
         "book": 7302,
         "title": "Book of Lost Dreams/Changeling Storytellers Screen",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
@@ -3995,7 +3995,7 @@
         "book": 21010,
         "title": "Shades of Gray",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Orpheus",
         "gameAcronym": "Orpheus"
     },
