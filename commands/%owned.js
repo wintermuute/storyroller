@@ -76,7 +76,7 @@ module.exports = {
 						
 		}
 		
-		var percentage = (total / owned) * 100;
+		var percentage = (owned / total) * 100;
 					
 		percentage = percentage.toFixed(2);
 		
