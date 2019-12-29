@@ -83,7 +83,7 @@ module.exports = {
 		if(version != 0)
 			version = " ";
 					
-		message.channel.send(`You own $(percentage)% ($(owned)/(total)) of all $(game)$(version)books.`);
+		message.channel.send(`You own ${percentage}% ($(owned)/(total)) of all ${game}${version}books.`);
 			
 	}
 };
