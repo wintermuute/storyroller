@@ -707,7 +707,7 @@
         "book": 2359,
         "title": "Clanbook: Assamite (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -2307,7 +2307,7 @@
         "book": 4009,
         "title": "Halls of the Arcanum",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
