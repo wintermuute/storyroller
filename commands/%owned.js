@@ -85,7 +85,7 @@ module.exports = {
 		if(game != "")
 			game += " ";
 		if(version != 0)
-			versionstr = version + " ";
+			versionstr = "V" + version + " ";
 					
 		message.channel.send(`You own ${percentage}% (${owned}/${total}) of all ${game}${versionstr} books.`);
 			
