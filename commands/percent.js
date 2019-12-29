@@ -18,7 +18,7 @@ var fileName = '../booklist.json';
 var file = require(fileName);
 
 module.exports = {
-	name: '%owned',
+	name: 'percent',
 	description: 'displays the percentage of books owned overall or by game and version',
 	execute(message, args) {
 		var booklist = require(fileName);
