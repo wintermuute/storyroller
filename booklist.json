@@ -1,0 +1,4026 @@
+[
+    {
+        "book": 2000,
+        "title": "Vampire: The Masquerade (1st Edition)",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2001,
+        "title": "Storyteller's Screen (1st Edition)",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2002,
+        "title": "Vampire: The Masquerade (2nd Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2003,
+        "title": "Storyteller's Screen (2nd Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2005,
+        "title": "Awakening: Diablerie Mexico",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2006,
+        "title": "Dirty Secrets of the Black Hand",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2009,
+        "title": "World of Darkness: Hong Kong",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 2010,
+        "title": "Diablerie: Britain",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2020,
+        "title": "Inquisition",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2021,
+        "title": "Ghouls: Fatal Addiction",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2022,
+        "title": "War of Ages",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2023,
+        "title": "Children of the Night",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2024,
+        "title": "Revelations of the Dark Mother",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2051,
+        "title": "Clanbook: Brujah (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2052,
+        "title": "Clanbook: Gangrel (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2053,
+        "title": "Clanbook: Malkavian (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2054,
+        "title": "Clanbook: Nosferatu (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2055,
+        "title": "Players Guide to the Sabbat",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2056,
+        "title": "Clanbook: Toreador (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2057,
+        "title": "Clanbook: Tremere (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2058,
+        "title": "Clanbook: Ventrue (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2059,
+        "title": "Clanbook: Assamite (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2060,
+        "title": "Clanbook: Setite (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2061,
+        "title": "Clanbook: Tzimisce (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2062,
+        "title": "Clanbook: Lasombra (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2063,
+        "title": "Clanbook: Giovanni (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2064,
+        "title": "Clanbook: Ravnos (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2090,
+        "title": "Giovanni Chronicles I: The Last Supper",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2091,
+        "title": "Giovanni Chronicles II: Blood and Fire",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2096,
+        "title": "Giovanni Chronicles III: The Sun Has Set",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2097,
+        "title": "Giovanni Chronicles IV: Nuova Malattia",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2098,
+        "title": "Giovanni Saga I",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2100,
+        "title": "Alien Hunger",
+        "version": 1,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2101,
+        "title": "Time of Thin Blood",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2102,
+        "title": "Ashes to Ashes",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2103,
+        "title": "Blood Bond",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2104,
+        "title": "Succubus Club",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2105,
+        "title": "Milwaukee by Night",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2106,
+        "title": "Blood Magic: Secrets of Thaumaturgy",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2201,
+        "title": "Chicago by Night (1st Edition)",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2203,
+        "title": "Chicago by Night (2nd Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2204,
+        "title": "Vampire Players Guide (1st Edition)",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2205,
+        "title": "Hunters Hunted",
+        "version": 1,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2206,
+        "title": "Vampire Players Guide (2nd Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2207,
+        "title": "Anarch Cookbook",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2209,
+        "title": "New Orlens by Night",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2210,
+        "title": "Los Angeles by Night",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2211,
+        "title": "DC by Night",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2212,
+        "title": "Dark Colony",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2214,
+        "title": "Berlin by Night",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2216,
+        "title": "Montreal by Night",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2220,
+        "title": "World of Darkness 1st Edition",
+        "version": 1,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 2221,
+        "title": "World of Darkness: Mummy (1st Edition)",
+        "version": 1,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 2222,
+        "title": "Storytellers Handbook",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2223,
+        "title": "World of Darkness: Gypsies",
+        "version": 1,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 2224,
+        "title": "World of Darkness: Mummy (2nd Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 2225,
+        "title": "Storytellers Handbook to the Sabbat",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2226,
+        "title": "World of Darkness 2nd Edition",
+        "version": 2,
+        "owned": false,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 2227,
+        "title": "World of Darkness: Demon Hunter X",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 2228,
+        "title": "World of Darkness: Mafia",
+        "version": 3,
+        "owned": false,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 2230,
+        "title": "Kindred Most Wanted",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2231,
+        "title": "Diablerie",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2233,
+        "title": "Elysium: The Elder Way",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2234,
+        "title": "Chicago Chronicles Volume 1",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2235,
+        "title": "Chicago Chronicles Volume 2",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2236,
+        "title": "Chicago Chronicles Volume 3",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2250,
+        "title": "Who’s Who Among Vampires: Children of the Inquisition",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2251,
+        "title": "Book of Nod",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2252,
+        "title": "Tim Bradstreet Vampire Portfolio",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2265,
+        "title": "Nights of Prophecy",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2293,
+        "title": "Book of Nod (Limited Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2294,
+        "title": "Vampire Storytellers Handbook (Revised Limited Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2295,
+        "title": "Art of Vampire: The Masquerade (Limited Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2298,
+        "title": "Art of Vampire: The Masquerade",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2299,
+        "title": "Vampire: The Masquerade (Revised Limited Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2300,
+        "title": "Vampire: The Masquerade (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2301,
+        "title": "Vampire Storytellers Companion (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2302,
+        "title": "Guide to the Camarilla",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2303,
+        "title": "Guide to the Sabbat",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2304,
+        "title": "Vampire Storytellers Handbook (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2305,
+        "title": "Vampire Players Guide",
+        "version": 1,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2351,
+        "title": "Clanbook: Brujah (Revised Edition)",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2352,
+        "title": "Clanbook Gangrel (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2353,
+        "title": "Clanbook: Malkavian (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2354,
+        "title": "Clanbook: Nosferatu (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2356,
+        "title": "Clanbook: Toreador (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2357,
+        "title": "Clanbook: Tremere (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2358,
+        "title": "Clanbook: Ventrue (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2359,
+        "title": "Clanbook: Assamite (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2360,
+        "title": "Clanbook: Setite (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2361,
+        "title": "Clanbook: Tzimisce (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2362,
+        "title": "Clanbook: Lasombra (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2363,
+        "title": "Revised Edition",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2364,
+        "title": "Clanbook: Ravnos (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2380,
+        "title": "Mummy: The Resurrection",
+        "version": 3,
+        "owned": true,
+        "game": "Mummy: The Resurrection",
+        "gameAcronym": "MTR"
+    },
+    {
+        "book": 2381,
+        "title": "Mummy Players Guide",
+        "version": 3,
+        "owned": true,
+        "game": "Mummy: The Resurrection",
+        "gameAcronym": "MTR"
+    },
+    {
+        "book": 2409,
+        "title": "Succubus Club: Dead Man's Party",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2410,
+        "title": "Cairo by Night",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2411,
+        "title": "New York by Night",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2412,
+        "title": "Mexico City by Night",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2420,
+        "title": "Gilded Cage",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2421,
+        "title": "Sins of the Blood",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2422,
+        "title": "Midnight Siege",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2423,
+        "title": "Blood Sacrifice: The Thaumaturgy Companion",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2424,
+        "title": "Guide to the Anarchs",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2425,
+        "title": "Archons and Templars",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2426,
+        "title": "Havens of the Damned",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2427,
+        "title": "State of Grace",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2428,
+        "title": "Caine's Chosen",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2429,
+        "title": "Counsel of Primogen",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2430,
+        "title": "Lair of the Hidden",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2431,
+        "title": "Red Sign",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2432,
+        "title": "Chaining the Beast",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2440,
+        "title": "Encyclopedia Vampirica",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2441,
+        "title": "Kindred of the Ebony Kingdom",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2460,
+        "title": "Ventrue Chronicle",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2470,
+        "title": "Victorian Age: Vampire",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2471,
+        "title": "London by Night",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2472,
+        "title": "Victorian Age Companion",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2622,
+        "title": "Cities of Darkness Volume 1",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2623,
+        "title": "Cities of Darkness Volume 2",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2624,
+        "title": "Cities of Darkness Volume 3",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2800,
+        "title": "Vampire: The Dark Ages",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2801,
+        "title": "Vampire: The Dark Ages Storytellers Screen",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2802,
+        "title": "Vampire: The Dark Ages Book of Storyteller Secrets",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2803,
+        "title": "Constantinople By Night",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2804,
+        "title": "Vampire: The Dark Ages Companion",
+        "version": 2,
+        "owned": true,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2805,
+        "title": "Clanbook: Cappadocian",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2806,
+        "title": "Liege, Lord and Lackey",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2807,
+        "title": "Libellus Sanguinis I",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2808,
+        "title": "Transylvania by Night",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2809,
+        "title": "Three Pillars",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2810,
+        "title": "Clash of Wills",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2811,
+        "title": "Transylvania Chronicles 1: Dark Tides Rising",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2812,
+        "title": "Transylvania Chronicles 2: Son of the Dragon",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2813,
+        "title": "Transylvania Chronicles 3: Ill Omens",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2814,
+        "title": "Transylvania Chronicles 4: The Dragon Ascendant",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 2815,
+        "title": "Libellus Sanguinis II",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2817,
+        "title": "Clanbook: Baali",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2818,
+        "title": "Erciyes Fragments",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2819,
+        "title": "Cainite Heresy",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2820,
+        "title": "Wolves of the Sea",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2821,
+        "title": "Jerusalem by Night",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2822,
+        "title": "Clanbook: Salubri ",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2823,
+        "title": "Libellus Sanguinis III",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2825,
+        "title": "Fountains of Bright Crimson",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2826,
+        "title": "Ashen Knight",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2827,
+        "title": "Ashen Thief ",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2828,
+        "title": "Wind from the East: The Mongols",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2829,
+        "title": "House of Tremere",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2830,
+        "title": "Libellus Sanguinis IV",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2832,
+        "title": "Veil of Night",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2833,
+        "title": "Bitter Crusade",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2834,
+        "title": "Iberia by Night",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2835,
+        "title": "Ashen Cults",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2836,
+        "title": "Under the Black Cross",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 2900,
+        "title": "Kindred of the East",
+        "version": 3,
+        "owned": true,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2901,
+        "title": "Kindred of East Companion",
+        "version": 3,
+        "owned": true,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2902,
+        "title": "Thousand Hells",
+        "version": 3,
+        "owned": true,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2903,
+        "title": "Shadow War",
+        "version": 3,
+        "owned": true,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2904,
+        "title": "Dharma Book: Devil-Tigers",
+        "version": 3,
+        "owned": true,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2905,
+        "title": "Dharma Book: Bone Flowers",
+        "version": 3,
+        "owned": true,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2906,
+        "title": "Dharma Book: Thousand Whispers",
+        "version": 3,
+        "owned": true,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2907,
+        "title": "Dharma Book: Thrashing Dragons",
+        "version": 3,
+        "owned": false,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2908,
+        "title": "Dharma Book: Resplendent Cranes",
+        "version": 3,
+        "owned": false,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2920,
+        "title": "Half-Damned: Dhampyr",
+        "version": 3,
+        "owned": true,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2921,
+        "title": "San Francisco by Night",
+        "version": 3,
+        "owned": true,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2922,
+        "title": "Heresies of the Way",
+        "version": 3,
+        "owned": false,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2930,
+        "title": "Killing Streets ",
+        "version": 3,
+        "owned": false,
+        "game": "Kindred of the East",
+        "gameAcronym": "KotE"
+    },
+    {
+        "book": 2950,
+        "title": "World of Darkness: Blood and Silk",
+        "version": 3,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 2999,
+        "title": "Gehenna",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 3000,
+        "title": "Werewolf: The Apocalypse (1st Edition)",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3001,
+        "title": "Werewolf Screen (1st Edition)",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3002,
+        "title": "Rite of Passage",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3050,
+        "title": "Ways of the Wolf",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3051,
+        "title": "Tribebook: Black Furies (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3052,
+        "title": "Tribebook: Bone Gnawers (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3053,
+        "title": "Tribebook: Children of Gaia (1st Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3054,
+        "title": "Tribebook: Fianna (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3055,
+        "title": "Tribebook: Get of Fenris (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3056,
+        "title": "Tribebook: Glass Walkers (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3057,
+        "title": "Tribebook: Red Talons (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3058,
+        "title": "Tribebook: Shadow Lords (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3059,
+        "title": "Tribebook: Silent Striders (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3060,
+        "title": "Tribebook: Silver Fangs (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3061,
+        "title": "Tribebook: Stargazers (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3062,
+        "title": "Tribebook: Uktena (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3063,
+        "title": "Hengeyokai: Shifters of the East",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3064,
+        "title": "Project Twilight",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3065,
+        "title": "World of Darkness: Outcasts",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 3066,
+        "title": "Freak Legion: A Players Guide to Fomori",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3068,
+        "title": "World of Darkness: Midnight Circus",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 3069,
+        "title": "Rage Across the World Volume 1",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3070,
+        "title": "Rage Across the World Volume 2",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3071,
+        "title": "Rage Across the World Volume 3",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3074,
+        "title": "Kinfolk: Unsung Heroes",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3075,
+        "title": "Bastet",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3076,
+        "title": "Nuwisha",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3077,
+        "title": "Corax",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3078,
+        "title": "Tribebook: Wendigo (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3079,
+        "title": "Gurahl",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3080,
+        "title": "Ratkin",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3081,
+        "title": "Mokolé",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3082,
+        "title": "Ananasi ",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3083,
+        "title": "Rokea",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3084,
+        "title": "Nagah",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3087,
+        "title": "Axis Mundi: The Book of Spirits",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3100,
+        "title": "Rage Across New York",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3101,
+        "title": "Valkenburg Foundation",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3102,
+        "title": "Under a Blood Red Moon",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3103,
+        "title": "Dark Alliance: Vancouver",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3104,
+        "title": "Rage Across the Amazon",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3105,
+        "title": "Rage Across Russia",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3106,
+        "title": "Rage Across Australia",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3107,
+        "title": "Rage Across Appalachia",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3108,
+        "title": "Werewolf Players Guide (2nd Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3109,
+        "title": "Book of the Wyrm 2nd Edition",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3110,
+        "title": "Rage Across the Heavens",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3111,
+        "title": "Umbra (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3112,
+        "title": "Croatan Song",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3113,
+        "title": "Book of the Wyld",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3114,
+        "title": "Rage Across Egypt",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3200,
+        "title": "Book of the Wyrm 1st Edition",
+        "version": 1,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3201,
+        "title": "Caerns: Places of Power",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3202,
+        "title": "Werewolf Players Guide (1st Edition)",
+        "version": 1,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3203,
+        "title": "Monkeywrench: Pentex",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3204,
+        "title": "Umbra: The Velvet Shadow",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3205,
+        "title": "Werewolf Storytellers Handbook",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3206,
+        "title": "World of Darkness: Combat",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 3207,
+        "title": "Werewolf Chronicles Volume 1",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3208,
+        "title": "Werewolf Chronicles Volume 2",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3209,
+        "title": "Book of the Weaver",
+        "version": 1,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3210,
+        "title": "Silver Record",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3211,
+        "title": "Subsidiaries: A Guide to Pentex",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3212,
+        "title": "Guardians of the Caerns",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3213,
+        "title": "World of Rage",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3350,
+        "title": "World of Darkness: Blood-Dimmed Tides",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 3380,
+        "title": "Litany of the Tribes Volume 1",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3381,
+        "title": "Litany of the Tribes Volume 2",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3382,
+        "title": "Litany of the Tribes Volume 3",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3383,
+        "title": "Litany of the Tribes Volume 4",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3401,
+        "title": "Who’s Who Among Werewolves: Garou Saga",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3403,
+        "title": "Rage: Warriors of the Apocalypse",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3404,
+        "title": "Chronicle of the Black Labyrinth",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3600,
+        "title": "Werewolf: The Apocalypse (2nd Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3601,
+        "title": "Werewolf Screen (2nd Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3700,
+        "title": "Werewolf: The Wild West",
+        "version": 3,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3701,
+        "title": "Frontier Secrets: Werewolf: The Wild West Screen and Book",
+        "version": 3,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3703,
+        "title": "Ghost Towns",
+        "version": 3,
+        "owned": true,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3704,
+        "title": "Wild West Companion",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3705,
+        "title": "Tales from the Trails: Mexico",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3799,
+        "title": "Werewolf: The Apocalypse (Revised Limited Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3800,
+        "title": "Werewolf: The Dark Ages",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3801,
+        "title": "Werewolf: The Apocalypse (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3802,
+        "title": "Werewolf Storytellers Companion (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3803,
+        "title": "Art of Werewolf: The Apocalypse",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3804,
+        "title": "Werewolf Storytellers Handbook (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3806,
+        "title": "Players Guide to the Garou",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3807,
+        "title": "Players Guide to the Changing Breeds",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3810,
+        "title": "Possessed: A Players Guide",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3811,
+        "title": "Book of the City",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3812,
+        "title": "Book of Auspices",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3813,
+        "title": "Hammer and Klaive",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3814,
+        "title": "Past Lives",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3851,
+        "title": "Tribebook: Black Furies (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3852,
+        "title": "Tribebook: Bone Gnawers (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3853,
+        "title": "Tribebook: Children of Gaia (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3854,
+        "title": "Tribebook: Fianna (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3855,
+        "title": "Tribebook: Get of Fenris (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3856,
+        "title": "Tribebook: Glass Walkers (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3857,
+        "title": "Tribebook: Red Talons (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3858,
+        "title": "Tribebook: Shadow Lords (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3859,
+        "title": "Tribebook: Silent Striders (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3860,
+        "title": "Tribebook: Silver Fangs (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3861,
+        "title": "Tribebook: Stargazers (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3862,
+        "title": "Tribebook: Uktena (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3863,
+        "title": "Tribebook: Wendigo (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3938,
+        "title": "Wild West Poker Deck",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 3999,
+        "title": "Apocalypse",
+        "version": 3,
+        "owned": false,
+        "game": "Werewolf: The Apocalypse",
+        "gameAcronym": "WTA"
+    },
+    {
+        "book": 4000,
+        "title": "Mage: The Ascension (1st Edition)",
+        "version": 1,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4001,
+        "title": "Mage Screen",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4002,
+        "title": "Loom of Fate",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4003,
+        "title": "Book of Chantries",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4004,
+        "title": "Digital Web",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4005,
+        "title": "Ascension’s Right Hand",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4006,
+        "title": "Fragile Path: Testaments of the First Cabal",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4007,
+        "title": "Beyond the Barriers: The Book of Worlds",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4008,
+        "title": "Tradition Book: Celestial Chorus (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4009,
+        "title": "Halls of the Arcanum",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4010,
+        "title": "World of Darkness: Sorcerers",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 4011,
+        "title": "Book of Crafts",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4012,
+        "title": "Horizon: Stronghold of Hope",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4013,
+        "title": "Mage Chronicles Volume 1",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4014,
+        "title": "Guide to the Technocracy",
+        "version": 2,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4015,
+        "title": "Mage Chronicles Volume 2",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4016,
+        "title": "Digital Web V.2",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4017,
+        "title": "Masters of the Art",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4018,
+        "title": "Mage Chronicles Volume 3",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4020,
+        "title": "Mage Tarot Deck",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4021,
+        "title": "Tales of Magick: Dark Adventure",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4030,
+        "title": "Lost Paths: Ahl-i-Batin & Taftâni",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4035,
+        "title": "Convention Book: Iteration X (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4040,
+        "title": "Destiny’s Price",
+        "version": 2,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4043,
+        "title": "Spirit Ways",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4044,
+        "title": "Bitter Road",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4045,
+        "title": "Dead Magic 1",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4046,
+        "title": "Blood Treachery",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4047,
+        "title": "Dragons of the East",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4048,
+        "title": "Dead Magic 2",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4050,
+        "title": "Book of Shadows: The Mage Players Guide",
+        "version": 1,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4053,
+        "title": "Traditions Gathered 1: Songs of Science",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4054,
+        "title": "Traditions Gathered 2: Blood and Dreams",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4055,
+        "title": "Traditions Gathered 3: Swords of Faith",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4057,
+        "title": "Tradition Book: Akashic Brotherhood (1st edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4058,
+        "title": "Tradition Book: Sons of Ether (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4059,
+        "title": "Tradition Book: Verbena (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4060,
+        "title": "Tradition Book: Virtual Adepts (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4061,
+        "title": "Tradition Book: Cult of Ecstasy (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4062,
+        "title": "Tradition Book: Dreamspeakers (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4063,
+        "title": "Tradition Book: Euthanatos (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4064,
+        "title": "Tradition Book: Order of Hermes (1st Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4101,
+        "title": "Chaos Factor",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4120,
+        "title": "Mage Tarot Deck (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4201,
+        "title": "Technocracy: Progenitors",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4202,
+        "title": "Technocracy: Iteration X",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4203,
+        "title": "Technocracy: New World Order",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4204,
+        "title": "Technocracy: Void Engineers",
+        "version": 2,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4206,
+        "title": "Technocracy: Syndicate",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4207,
+        "title": "Technomancer’s Toybox",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4208,
+        "title": "Technocracy: Assembled Volume 1",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4209,
+        "title": "Technocracy: Assembled Volume 2",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4251,
+        "title": "Book of Madness (1st Edition)",
+        "version": 1,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4252,
+        "title": "Orphan’s Survival Guide",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4253,
+        "title": "Initiates of the Art",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4254,
+        "title": "Sorcerer Revised Edition",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4255,
+        "title": "Manifesto: Transmissions from the Rogue Council",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4300,
+        "title": "Mage: The Ascension (2nd Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4301,
+        "title": "Hidden Lore: Second Edition Screen and Book",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4302,
+        "title": "Book of Mirrors: Mage Storytellers Handbook",
+        "version": 2,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4599,
+        "title": "Mage: The Ascension (Revised Limited Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4600,
+        "title": "Mage: The Ascension (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4601,
+        "title": "Mage Storytellers Companion",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4602,
+        "title": "Book of Madness (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4603,
+        "title": "Guide to the Traditions",
+        "version": 3,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4604,
+        "title": "Mage Storytellers Handbook Revised Edition",
+        "version": 3,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4620,
+        "title": "Art of Mage: The Ascension",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4631,
+        "title": "Fallen Tower",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4632,
+        "title": "Infinite Tapestry",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4640,
+        "title": "Forged by Dragon’s Fire",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4657,
+        "title": "Tradition Book: Akashic Brotherhood (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4658,
+        "title": "Tradition Book: Sons of Ether (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4659,
+        "title": "Tradition Book: Verbena (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4660,
+        "title": "Tradition Book: Virtual Adepts (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4661,
+        "title": "Tradition Book: Cult of Ecstasy (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4662,
+        "title": "Tradition Book: Dreamspeakers (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4663,
+        "title": "Tradition Book: Euthanatos (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4664,
+        "title": "Tradition Book: Order of Hermes (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4665,
+        "title": "Tradition Book: Celestial Chorus (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4666,
+        "title": "Tradition Book: Hollow Ones (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4800,
+        "title": "Mage: The Sorcerers Crusade",
+        "version": 2,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4801,
+        "title": "Crusade Lore: The Sorcerers Crusade Book and Screen",
+        "version": 2,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4802,
+        "title": "World of Darkness: The Bygone Bestiary",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 4803,
+        "title": "Castles and Covenants",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4804,
+        "title": "Artisans Handbook",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4805,
+        "title": "Sorcerers Crusade Companion",
+        "version": 2,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4806,
+        "title": "Infernalism: The Path of Screams",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4807,
+        "title": "Order of Reason",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4808,
+        "title": "Swashbucklers Handbook",
+        "version": 3,
+        "owned": true,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4809,
+        "title": "Witches and Pagans",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 4999,
+        "title": "Ascension ",
+        "version": 3,
+        "owned": false,
+        "game": "Mage: The Ascension",
+        "gameAcronym": "MTA"
+    },
+    {
+        "book": 5001,
+        "title": "Book of the Damned",
+        "version": 2,
+        "owned": false,
+        "game": "Vampire: The Masquerade",
+        "gameAcronym": "VTM"
+    },
+    {
+        "book": 5399,
+        "title": "World of Darkness: Time of Judgment",
+        "version": 3,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 6000,
+        "title": "Wraith: The Oblivion (1st Edition)",
+        "version": 1,
+        "owned": true,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6002,
+        "title": "Wraith Storytellers Screen",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6003,
+        "title": "Book of Legions",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6004,
+        "title": "Love Beyond Death",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6005,
+        "title": "Face of Death",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6006,
+        "title": "Sea of Shadows: A Storytellers Guide to the Tempest",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6007,
+        "title": "Wraith Players Guide",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6008,
+        "title": "Quick and the Dead",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6009,
+        "title": "Hierarchy",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6010,
+        "title": "Dark Kingdom of Jade",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6011,
+        "title": "Guildbook: Masquers",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6012,
+        "title": "Dark Kingdom of Jade Adventures",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6013,
+        "title": "Shadow Players Guide",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6014,
+        "title": "Ends of Empire",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6060,
+        "title": "Haunts",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6064,
+        "title": "Doomslayers: Into the Labyrinth",
+        "version": 2,
+        "owned": true,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6065,
+        "title": "Renegades",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6100,
+        "title": "Wraith Character Kit",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6101,
+        "title": "Midnight Express",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6102,
+        "title": "Mediums: Speakers with the Dead",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6103,
+        "title": "World of Darkness: Tokyo",
+        "version": 2,
+        "owned": true,
+        "game": "World of Darkness",
+        "gameAcronym": "WOD"
+    },
+    {
+        "book": 6200,
+        "title": "Necropolis: Atlanta",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6300,
+        "title": "Guildbook: Artificers",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6301,
+        "title": "Guildbook: Sandmen",
+        "version": 1,
+        "owned": true,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6302,
+        "title": "Risen",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6303,
+        "title": "Guildbook: Haunters",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6304,
+        "title": "Guildbook: Puppeteers and Pardoners",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6305,
+        "title": "Guildbook: Spooks and Oracles",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6600,
+        "title": "Wraith: The Oblivion (2nd Edition)",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6601,
+        "title": "Buried Secrets: Second Edition Screen and Book",
+        "version": 2,
+        "owned": true,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6800,
+        "title": "Wraith: The Great War",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6902,
+        "title": "Dark Reflections: Spectres",
+        "version": 1,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 6903,
+        "title": "Charnel Houses of Europe: The Shoah",
+        "version": 2,
+        "owned": false,
+        "game": "Wraith: The Oblivion",
+        "gameAcronym": "WTO"
+    },
+    {
+        "book": 7000,
+        "title": "Changeling: The Dreaming (1st Edition)",
+        "version": 1,
+        "owned": true,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7001,
+        "title": "Book of Storyteller Secrets/Changeling Storytellers Screen",
+        "version": 1,
+        "owned": true,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7002,
+        "title": "Freeholds and Hidden Glens",
+        "version": 1,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7004,
+        "title": "Autumn People",
+        "version": 1,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7005,
+        "title": "Shadow Court",
+        "version": 1,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7006,
+        "title": "Nobles: The Shining Host",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7007,
+        "title": "Isle of the Mighty",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7008,
+        "title": "Enchanted",
+        "version": 2,
+        "owned": true,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7009,
+        "title": "Changeling Storytellers Guide",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7010,
+        "title": "Fools Luck: The Way of the Commoner",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7050,
+        "title": "Kithbook: Trolls",
+        "version": 1,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7051,
+        "title": "Kithbook: Sluagh",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7052,
+        "title": "Kithbook: Nockers",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7053,
+        "title": "Kithbook: Satyrs",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7054,
+        "title": "Kithbook: Pooka",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7055,
+        "title": "Kithbook: Redcaps",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7056,
+        "title": "Kithbook: Eshu",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7100,
+        "title": "Changeling Players Guide",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7200,
+        "title": "Immortal Eyes 1: The Toybox",
+        "version": 1,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7201,
+        "title": "Immortal Eyes 2: Shadows on the Hill",
+        "version": 1,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7202,
+        "title": "Immortal Eyes 3: Court of all Kings",
+        "version": 1,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7300,
+        "title": "Changeling: The Dreaming (2nd Edition)",
+        "version": 2,
+        "owned": true,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7302,
+        "title": "Book of Lost Dreams/Changeling Storytellers Screen",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7303,
+        "title": "Dreams and Nightmares",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7304,
+        "title": "Pour L’Amour et Liberte:  The Book of Houses 2",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7305,
+        "title": "Book of Houses (Noblesse Oblige)",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7306,
+        "title": "Kingdom of Willows",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7307,
+        "title": "Inanimae: The Secret Way",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7308,
+        "title": "Land of Eight Million Dreams",
+        "version": 2,
+        "owned": true,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7309,
+        "title": "War in Concordia",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7310,
+        "title": "Denizens of the Dreaming",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 7311,
+        "title": "Book of Lost Houses",
+        "version": 2,
+        "owned": false,
+        "game": "Changeling: The Dreaming",
+        "gameAcronym": "CTD"
+    },
+    {
+        "book": 8100,
+        "title": "Hunter: The Reckoning",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8101,
+        "title": "Hunter Storytellers Companion",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8102,
+        "title": "Hunters Survival Guide",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8103,
+        "title": "Hunter Book: Avenger",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8104,
+        "title": "Hunter Book: Defender",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8105,
+        "title": "Hunter: The Walking Dead",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8106,
+        "title": "Hunter Book: Innocent",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8107,
+        "title": "Hunter Book: Judge",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8108,
+        "title": "Hunter: Apocrypha",
+        "version": 3,
+        "owned": false,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8109,
+        "title": "Hunter Book: Martyr",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8110,
+        "title": "Hunter Book: Redeemer",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8111,
+        "title": "Hunter Book: Visionary",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8112,
+        "title": "Hunter Book: Hermit",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8113,
+        "title": "Hunter Book: Wayward",
+        "version": 3,
+        "owned": false,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8120,
+        "title": "Hunter Players Guide",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8121,
+        "title": "Hunter Storytellers Handbook",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8130,
+        "title": "Hunter: Holy War",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8131,
+        "title": "Hunter: First Contact",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8132,
+        "title": "Hunter: The Nocturnal",
+        "version": 3,
+        "owned": false,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8133,
+        "title": "Hunter: Utopia",
+        "version": 3,
+        "owned": false,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8134,
+        "title": "Hunter: The Moonstruck",
+        "version": 3,
+        "owned": false,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8135,
+        "title": "Hunter: Fall from Grace",
+        "version": 3,
+        "owned": false,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8136,
+        "title": "Hunter: The Spellbound",
+        "version": 3,
+        "owned": false,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8137,
+        "title": "Hunter: The Infernal",
+        "version": 3,
+        "owned": true,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8138,
+        "title": "Hunter: Urban Legends",
+        "version": 3,
+        "owned": false,
+        "game": "Hunter: The Reckoning",
+        "gameAcronym": "HTR"
+    },
+    {
+        "book": 8200,
+        "title": "Demon: The Fallen",
+        "version": 3,
+        "owned": true,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 8201,
+        "title": "Demon Storytellers Companion",
+        "version": 3,
+        "owned": true,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 8202,
+        "title": "Demon Players Guide",
+        "version": 3,
+        "owned": true,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 8203,
+        "title": "Houses of the Fallen",
+        "version": 3,
+        "owned": false,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 8211,
+        "title": "City of Angels",
+        "version": 3,
+        "owned": true,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 8220,
+        "title": "Saviors and Destroyers",
+        "version": 3,
+        "owned": true,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 8221,
+        "title": "Damned and Deceived",
+        "version": 3,
+        "owned": true,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 8270,
+        "title": "Fear to Tread",
+        "version": 3,
+        "owned": false,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 8280,
+        "title": "Earthbound",
+        "version": 3,
+        "owned": true,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 8281,
+        "title": "Days of Fire",
+        "version": 3,
+        "owned": true,
+        "game": "Demon: The Fallen",
+        "gameAcronym": "DTF"
+    },
+    {
+        "book": 20000,
+        "title": "Dark Ages: Vampire (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20001,
+        "title": "Dark Ages: Vampire (Revised Limited Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20002,
+        "title": "Dark Ages: Mage",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20003,
+        "title": "Dark Ages: Vampire Storytellers Companion (Revised Edition)",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20004,
+        "title": "Dark Ages: Inquisitor",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20005,
+        "title": "Dark Ages: Werewolf",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20006,
+        "title": "Dark Ages: Players Guide to Low Clans",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20007,
+        "title": "Dark Ages: Players Guide to High Clans",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20011,
+        "title": "Dark Ages: Inquisitor Companion",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20020,
+        "title": "Dark Ages Europe",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20021,
+        "title": "Dark Ages: British Isles",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20022,
+        "title": "Dark Ages: Italy",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20025,
+        "title": "Dark Ages: Hallowed Ground",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20030,
+        "title": "Road of the Beast",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20031,
+        "title": "Road of Kings",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20032,
+        "title": "Road of Heaven",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20033,
+        "title": "Road of Sin",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20034,
+        "title": "Road of Humanity",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20045,
+        "title": "Dark Ages: Right of Princes",
+        "version": 3,
+        "owned": true,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20046,
+        "title": "Dark Ages: Spoils of War",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20047,
+        "title": "Dark Ages: Devil’s Due",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20048,
+        "title": "Dark Ages: Brujah Chronicles",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20049,
+        "title": "Dark Ages: Darkening Sky",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20060,
+        "title": "Dark Ages: Mage Grimoire",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 20068,
+        "title": "Dark Ages: Fae",
+        "version": 3,
+        "owned": false,
+        "game": "Vampire: The Dark Ages",
+        "gameAcronym": "VTDA"
+    },
+    {
+        "book": 21000,
+        "title": "Orpheus",
+        "version": 3,
+        "owned": true,
+        "game": "Orpheus",
+        "gameAcronym": "Orpheus"
+    },
+    {
+        "book": 21001,
+        "title": "Crusade of Ashes",
+        "version": 3,
+        "owned": true,
+        "game": "Orpheus",
+        "gameAcronym": "Orpheus"
+    },
+    {
+        "book": 21010,
+        "title": "Shades of Gray",
+        "version": 3,
+        "owned": false,
+        "game": "Orpheus",
+        "gameAcronym": "Orpheus"
+    },
+    {
+        "book": 21011,
+        "title": "Shadow Games",
+        "version": 3,
+        "owned": false,
+        "game": "Orpheus",
+        "gameAcronym": "Orpheus"
+    },
+    {
+        "book": 21012,
+        "title": "Orphan-Grinders",
+        "version": 3,
+        "owned": false,
+        "game": "Orpheus",
+        "gameAcronym": "Orpheus"
+    },
+    {
+        "book": 21015,
+        "title": "End Game",
+        "version": 3,
+        "owned": false,
+        "game": "Orpheus",
+        "gameAcronym": "Orpheus"
+    }
+]

@@ -1,0 +1,222 @@
+/*"0" : {
+	"title" : "Vampire: The Masquerade 20th Anniversary Edition",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Dust to Dust",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "V20 Companion",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Children of the Revolution",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "The Hunters Hunted II",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Storytellers Screen (20th Anniversary Edition)",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Anarchs Unbound",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Rites of the Blood",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Dread Names, Red List",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Lore of the Clans",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Lore of the Bloodlines",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "The Black Hand: A Guide to the Tal'Mahe'Ra",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Ghouls and Revenants",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Beckett's Jyhad Diary",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Masquerade"
+},
+"0" : {
+	"title" : "Wraith: The Oblivion (20th Anniversary Edition)",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Wraith: The Oblivion"
+},
+"0" : {
+	"title" : "Handbook for the Recently Deceased",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Wraith: The Oblivion"
+},
+"0" : {
+	"title" : "Wyld West Expansion Pack (Werewolf 20th Anniversary Edition)",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Werewolf: The Apocalypse (20th Anniversary Edition)",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Changing Breeds",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Rage Across the World",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "W20 Cookbook",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Tribebook: White Howlers",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Book of the Wyrm",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Umbra: Velvet Shadow",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Kinfolk: A Breed Apart",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Shattered Dreams",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Changing Ways",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Pentex Employee Indoctrination Manual",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Werewolf: The Apocalypse"
+},
+"0" : {
+	"title" : "Vampire: The Dark Ages (20th Anniversary Edition),
+	"version" : 4,
+	"owned" : false,
+	"game" : "Dark Ages: Vampire"
+},
+"0" : {
+	"title" : "Tome of Secrets",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Dark Ages"
+},
+"0" : {
+	"title" : "Dark Ages Companion",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Vampire: The Dark Ages"
+},
+"0" : {
+	"title" : "Changling: The Dreaming (20th Anniversary Edition)",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Changling: The Dreaming"
+},
+"0" : {
+	"title" : "Kithbook: Boggans",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Changling: The Dreaming"
+},
+"0" : {
+	"title" : "Mage: The Ascension (20th Anniversary Edition)",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Mage: The Ascension"
+},
+"0" : {
+	"title" : "How Do You DO That?",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Mage: The Ascention"
+},
+"0" : {
+	"title" : "The Book of Secrets",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Mage: The Ascention"
+},
+"0" : {
+	"title" : "The Mage Cookbook",
+	"version" : 4,
+	"owned" : false,
+	"game" : "Mage: The Ascention"
+}*/
