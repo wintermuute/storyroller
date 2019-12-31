@@ -32,7 +32,7 @@ module.exports = {
 			
 			totalsList[currGame][booklist[i].version] += 1;
 			if(booklist[i].owned)
-				ownedList[currGame][booklist[i].version] += 1;
+				ownedList[currGame][booklist[i].version - 1] += 1;
 		}
 		
 		
