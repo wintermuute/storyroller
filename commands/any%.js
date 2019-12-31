@@ -82,7 +82,8 @@ module.exports = {
 				
 				var percentage = ((ownedList[i][j]/totalsList[i][j]) * 100).toFixed(2);
 				
-				versionBreakdown[j] = `${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})` + "\n";
+				if(totalsList[j] != 0)
+					versionBreakdown[j] = `${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})` + "\n";
 			}
 			
 			if(finalMessage.length > 1500)
