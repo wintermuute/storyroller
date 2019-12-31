@@ -89,7 +89,7 @@ module.exports = {
 					completion = "";
 				
 				if(totalsList[i][j] != 0)
-					versionBreakdown[j] = `${completion]${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})${completion}` + "\n";
+					versionBreakdown[j] = `${completion}${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})${completion}` + "\n";
 				else
 					versionBreakdown[j] = "";
 			}
