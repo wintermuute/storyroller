@@ -53,6 +53,12 @@ module.exports = {
 		var verOwned = new Array(totalsList[0].length);
 		var verTotal = new Array(totalsList[0].length);
 		
+		for(var i = 0; i < verOwned.length; i++)
+		{
+			verOwned[i] = 0;
+			verTotal[i] = 0;
+		}
+		
 		var finalMessage = "";
 		
 		for(var i = 0; i < totalsList.length; i++)
