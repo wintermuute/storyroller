@@ -79,7 +79,7 @@ module.exports = {
 		
 		for(var i = 0; i < verOwned.length; i++)
 		{
-			finalMessage += `You own ${((verOwned[i]/verTotal[i]) * 100).toFixed(2)}% (${verOwned[i]}/${verTotal[i]}) of all V${i + 1} books.` += "\n";
+			finalMessage += `You own ${((verOwned[i]/verTotal[i]) * 100).toFixed(2)}% (${verOwned[i]}/${verTotal[i]}) of all V${i + 1} books.` + "\n";
 		}
 		
 		finalMessage += "\n" + `Overall, you own ${((totalOwned/totalBooks) * 100).toFixed(2)}% (${totalOwned}/${totalBooks}) of all CWoD books.`;
