@@ -67,7 +67,13 @@ module.exports = {
 				
 				var percentage = ((ownedList[i][j]/totalsList[i][j]) * 100).toFixed(2);
 				
-				versionBreakdown[j] = `${fullGames[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})`;
+				versionBreakdown[j] = `${fullGames[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})` + "\n";
+			}
+			
+			if(finalMessage.length > 1500)
+			{
+				message.channel.send(finalMessage);
+				finalMessage == "";
 			}
 			
 			finalMessage += `You own ${((gameTotalOwned / gameTotalPrinted) * 100).toFixed(2)}% (${gameTotalOwned}/${gameTotalPrinted}) of all ${fullGames[i]} books.` + "\n" + "\n"; 
@@ -75,12 +81,6 @@ module.exports = {
 			for(var j = 0; j < versionBreakdown.length; j++)
 				finalMessage += versionBreakdown[j];
 			finalMessage += "\n";
-			
-			if(finalMessage.length > 1500)
-			{
-				message.channel.send(finalMessage);
-				finalMessage == "";
-			}
 		}
 		
 		for(var i = 0; i < verOwned.length; i++)
