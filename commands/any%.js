@@ -76,7 +76,7 @@ module.exports = {
 				finalMessage += versionBreakdown[j];
 			finalMessage += "\n";
 			
-			if(finalMessage.length > 1750)
+			if(finalMessage.length > 1500)
 			{
 				message.channel.send(finalMessage);
 				finalMessage == "";
