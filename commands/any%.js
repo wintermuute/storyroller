@@ -8,9 +8,6 @@ module.exports = {
 	description: 'lists the percentages owned of every possible category',
 	execute(message, args) {
 		var booklist = require(fileName);
-				
-		var game = "";
-		var version = 0;
 		
 		const fullGames = ["Vampire: The Masquerade", "Kindred of the East", "Werewolf: The Apocalypse", "Mage: The Ascension", "Wraith: The Oblivion", "Changeling: The Dreaming", "Hunter: The Reckoning", "Demon: The Fallen", "Vampire: The Dark Ages", "Mummy: The Resurrection", "Orpheus", "World of Darkness"];
 		
