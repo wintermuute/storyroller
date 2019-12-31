@@ -85,10 +85,10 @@ module.exports = {
 				versionBreakdown[j] = `${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})` + "\n";
 			}
 			
-			if(finalMessage.length > 1000)
+			if(finalMessage.length > 1750)
 			{
 				message.channel.send(finalMessage);
-				finalMessage == "";
+				finalMessage = "";
 			}
 			
 			finalMessage += `You own ${((gameTotalOwned / gameTotalPrinted) * 100).toFixed(2)}% (${gameTotalOwned}/${gameTotalPrinted}) of all ${fullGames[i]} books.` + "\n" + "\n"; 
