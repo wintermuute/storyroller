@@ -21,13 +21,11 @@ module.exports = {
 		}
 		
 		for(var i = 0; i < totalsList.length;i++)
-		{
 			for(var j = 0; j < totalsList[0].length; j++)
 			{
 				totalsList[i][j] = 0;
 				ownedList[i][j] = 0;
 			}
-		}
 		
 		//Scans through booklist and counts up how many books of each game version are owned, along with the total count
 		var currGame = 0;
@@ -35,22 +33,16 @@ module.exports = {
 		for(var i = 0; i < booklist.length; i++)
 		{
 			if(booklist[i].game != fullGames[currGame])
-			{
 				while(fullGames[currGame] != booklist[i].game)
 				{	
 					if(currGame == fullGames.length - 1)
-					{
 						currGame = -1;
-					}
 					currGame++;
 				}
-			}
 			
 			totalsList[currGame][booklist[i].version - 1] += 1;
 			if(booklist[i].owned)
-			{
 				ownedList[currGame][booklist[i].version - 1] += 1;
-			}
 		}
 		
 		
@@ -86,18 +78,11 @@ module.exports = {
 					versionBreakdown[j] = `${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})` + "\n";
 			}
 			
-			if(finalMessage.length > 1500)
-			{
-				message.channel.send(finalMessage);
-				finalMessage = "";
-			}
-			
 			finalMessage += `You own ${((gameTotalOwned / gameTotalPrinted) * 100).toFixed(2)}% (${gameTotalOwned}/${gameTotalPrinted}) of all ${fullGames[i]} books.` + "\n"; 
 			
 			for(var j = 0; j < versionBreakdown.length; j++)
-			{
 				finalMessage += versionBreakdown[j];
-			}
+			
 			finalMessage += "\n";
 		}
 		
