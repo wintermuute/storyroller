@@ -14,11 +14,13 @@ module.exports = {
 		var totalsList = new Array(fullGames.length);
 		var ownedList = new Array(fullGames.length);
 		
+		/*
 		for(var i = 0; i < totalsList.length; i++)
 		{
 			totalsList[i] = new Array(3);
 			ownedList[i] = new Array(3);
 		}
+		*/
 		
 		for(var i = 0; i < totalsList.length;i++)
 		{
