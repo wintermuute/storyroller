@@ -20,16 +20,14 @@ module.exports = {
 			ownedList[i] = new Array(3);
 		}
 		
-		/*
 		for(var i = 0; i < totalsList.length;i++)
 		{
-			for(var j = 0; j = totalsList[0].length; j++)
+			for(var j = 0; j < totalsList[0].length; j++)
 			{
 				totalsList[i][j] = 0;
 				ownedList[i][j] = 0;
 			}
 		}
-		*/
 		
 		//Scans through booklist and counts up how many books of each game version are owned, along with the total count
 		var currGame = 0;
