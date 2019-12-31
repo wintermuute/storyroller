@@ -94,7 +94,7 @@ module.exports = {
 					versionBreakdown[j] = "";
 			}
 			
-			if(gameTotalOwned[i][j] == gameTotalPrinted[i][j])
+			if(gameTotalOwned == gameTotalPrinted)
 				completion = "**";
 			else
 				completion = "";
