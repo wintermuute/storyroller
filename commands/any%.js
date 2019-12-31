@@ -84,7 +84,7 @@ module.exports = {
 		
 		finalMessage += "\n" + `Overall, you own ${((totalOwned/totalBooks) * 100).toFixed(2)}% (${totalOwned}/${totalBooks}) of all CWoD books.`;
 					
-		message.channel.send(`You own ${percentage}% (${owned}/${total}) of all ${game}${versionstr} books.`);
+		message.channel.send(finalMessage);
 			
 	}
 };
