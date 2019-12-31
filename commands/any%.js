@@ -47,6 +47,9 @@ module.exports = {
 		
 		
 		//Calculates percentages and compiles them into a message
+		
+		var completion = "";
+		
 		var totalBooks = 0;
 		var totalOwned = 0;
 		
@@ -80,13 +83,23 @@ module.exports = {
 				
 				var percentage = ((ownedList[i][j]/totalsList[i][j]) * 100).toFixed(2);
 				
+				if(ownedList[i][j] == totalsList[i][j])
+					completion = "**";
+				else
+					completion = "";
+				
 				if(totalsList[i][j] != 0)
-					versionBreakdown[j] = `${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})` + "\n";
+					versionBreakdown[j] = `${completion]${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})${completion}` + "\n";
 				else
 					versionBreakdown[j] = "";
 			}
 			
-			finalMessage += `You own ${((gameTotalOwned / gameTotalPrinted) * 100).toFixed(2)}% (${gameTotalOwned}/${gameTotalPrinted}) of all ${fullGames[i]} books.` + "\n"; 
+			if(gameTotalOwned[i][j] == gameTotalPrinted[i][j])
+				completion = "**";
+			else
+				completion = "";
+			
+			finalMessage += `${completion}You own ${((gameTotalOwned / gameTotalPrinted) * 100).toFixed(2)}% (${gameTotalOwned}/${gameTotalPrinted}) of all ${fullGames[i]} books.${completion}` + "\n"; 
 			
 			for(var j = 0; j < versionBreakdown.length; j++)
 				finalMessage += versionBreakdown[j];
@@ -96,10 +109,20 @@ module.exports = {
 		
 		for(var i = 0; i < verOwned.length; i++)
 		{
-			finalMessage += `You own ${((verOwned[i]/verTotal[i]) * 100).toFixed(2)}% (${verOwned[i]}/${verTotal[i]}) of all V${i + 1} books.` + "\n";
+			if(verOwned[i] == verTotal[i])
+				completion = "**";
+			else
+				completion = "";
+			
+			finalMessage += `${completion}You own ${((verOwned[i]/verTotal[i]) * 100).toFixed(2)}% (${verOwned[i]}/${verTotal[i]}) of all V${i + 1} books.${completion}` + "\n";
 		}
 		
-		finalMessage += "\n" + `Overall, you own ${((totalOwned/totalBooks) * 100).toFixed(2)}% (${totalOwned}/${totalBooks}) of all CWoD books.`;
+		if(totalOwned == totalBooks)
+			completion = "**";
+		else
+			completion = "";
+		
+		finalMessage += "\n" + `${completion}Overall, you own ${((totalOwned/totalBooks) * 100).toFixed(2)}% (${totalOwned}/${totalBooks}) of all CWoD books.${completion}`;
 					
 		message.channel.send(finalMessage);
 			
