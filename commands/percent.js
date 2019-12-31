@@ -28,8 +28,7 @@ module.exports = {
 				
 		var game = "";
 		var version = 0;
-		
-		
+				
 		if(args.length > 0)
 			game = args[0].toLowerCase();
 		if(args.length > 1)

@@ -8,71 +8,81 @@ module.exports = {
 	description: 'lists the percentages owned of every possible category',
 	execute(message, args) {
 		var booklist = require(fileName);
-		
-		var owned = 0;
-		var total = 0;
 				
 		var game = "";
 		var version = 0;
 		
 		const fullGames = ["Vampire: The Masquerade", "Kindred of the East", "Werewolf: The Apocalypse", "Mage: The Ascension", "Wraith: The Oblivion", "Changeling: The Dreaming", "Hunter: The Reckoning", "Demon: The Fallen", "Vampire: The Dark Ages", "Mummy: The Resurrection", "Orpheus", "World of Darkness"];
 		
-		if(args.length > 0)
-			game = args[0].toLowerCase();
-		if(args.length > 1)
-			version = args[1];
-			
-		//Converts game acronyms to full game names
-		if(vtmAliases.includes(game))
-			game = "Vampire: The Masquerade";
-		else if (koteAliases.includes(game))
-			game = "Kindred of the East";
-		else if(wtaAliases.includes(game))
-			game = "Werewolf: The Apocalypse";
-		else if(mtaAliases.includes(game))
-			game = "Mage: The Ascension";
-		else if(wtoAliases.includes(game))
-			game = "Wraith: The Oblivion";
-		else if(ctdAliases.includes(game))
-			game = "Changeling: The Dreaming";
-		else if(htrAliases.includes(game))
-			game = "Hunter: The Reckoning";
-		else if(dtfAliases.includes(game))
-			game = "Demon: The Fallen";
-		else if(davAliases.includes(game))
-			game = "Vampire: The Dark Ages";
-		else if(mtrAliases.includes(game))
-			game = "Mummy: The Resurrection";
-		else if(orpheusAliases.includes(game))
-			game = "Orpheus";
-		else if (wodAliases.includes(game))
-			game = "World of Darkness";
+		var totalsList = new Array(fullGames.length);
+		var ownedList = new Array(fullGames.length);
+		
+		for(var i = 0; i < totals.length; i++)
+			x[i] = new Array(3);
+		
+		//Scans through booklist and counts up how many books of each game version are owned, along with the total count
+		var currGame = 0;
 		
 		for(var i = 0; i < booklist.length; i++)
 		{
-			if(booklist[i].game == game || game =="")
-				if(booklist[i].version == version || version == 0)
-					if(booklist[i].owned)
-					{	
-						owned++;
-						total++;
-					}
-					else
-						total++;
+			if(booklist[i].game != fullGames[currGame])
+				while(fullGames[currGame] != booklist[i].game)
+				{	
+					if(currGame == fullGames.length - 1)
+						currGame = -1;
+					currGame++;
+				}
 			
-						
+			totalsList[currGame][booklist[i].version] += 1;
+			if(booklist[i].owned)
+				ownedList[currGame][booklist[i].version] += 1;
 		}
 		
-		var percentage = (owned / total) * 100;
-					
-		percentage = percentage.toFixed(2);
 		
-		var versionstr = "";
+		//Calculates percentages and compiles them into a message
+		var totalBooks = 0;
+		var totalOwned = 0;
 		
-		if(game != "")
-			game += " ";
-		if(version != 0)
-			versionstr = "V" + version + " ";
+		var verOwned = new Array(totalsList[0].length);
+		var verTotal = new Array(totalsList[0].length);
+		
+		var finalMessage = "";
+		
+		for(var i = 0; i < totalsList.length; i++)
+		{
+			var gameTotalOwned = 0;
+			var gameTotalPrinted = 0;
+			var versionBreakdown = new Array(totalsList[0].length);
+			
+			for(var j = 0; j < totalsList[0].length; j++)
+			{
+				totalOwned += ownedList[i][j];
+				totalBooks += totalsList[i][j];
+				
+				verTotal[j] += totalsList[i][j];
+				verOwned[j] += ownedList[i][j];
+				
+				gameTotalOwned += ownedList[i][j];
+				gameTotalPrinted += totalsList[i][j];
+				
+				var percentage = ((ownedList[i][j]/totalsList[i][j]) * 100).toFixed(2);
+				
+				versionBreakdown[j] = `${ownedList[i][j].game} V${ownedList[i][j].version}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j])}`;
+			}
+			
+			finalMessage = `You own ${((gameTotalOwned/gameTotalPrinted) * 100).toFixed(2)}% (${gameTotalOwned}/${gameTotalPrinted}) of all ${fullGames[i]} books.` + "\n" + "\n"; 
+			
+			for(var j = 0; j < versionBreakdown.length; j++)
+				finalMessage += versionBreakdown[j];
+			finalMessage += "\n";
+		}
+		
+		for(var i = 0; i < verOwned.length; i++)
+		{
+			finalMessage += `You own ${((verOwned[i]/verTotal[i]) * 100).toFixed(2)}% (${verOwned[i]}/${verTotal[i]}) of all V${i + 1} books.` += "\n";
+		}
+		
+		finalMessage += "\n" + `Overall, you own ${((totalOwned/totalBooks) * 100).toFixed(2)}% (${totalOwned}/${totalBooks}) of all CWoD books.`;
 					
 		message.channel.send(`You own ${percentage}% (${owned}/${total}) of all ${game}${versionstr} books.`);
 			
