@@ -10,7 +10,7 @@ module.exports = {
 		var booklist = require(fileName);
 		
 		const fullGames = ["Vampire: The Masquerade", "Kindred of the East", "Werewolf: The Apocalypse", "Mage: The Ascension", "Wraith: The Oblivion", "Changeling: The Dreaming", "Hunter: The Reckoning", "Demon: The Fallen", "Vampire: The Dark Ages", "Mummy: The Resurrection", "Orpheus", "World of Darkness"];
-		
+		const fullAcronyms = ["VTM", "KotE", "WTA", "MTA", "WTO", "CTD", "HTR", "DTF", "VTDA", "MTR", "Orpheus", "WoD"];
 		var totalsList = new Array(fullGames.length);
 		var ownedList = new Array(fullGames.length);
 		
@@ -67,10 +67,10 @@ module.exports = {
 				
 				var percentage = ((ownedList[i][j]/totalsList[i][j]) * 100).toFixed(2);
 				
-				versionBreakdown[j] = `${fullGames[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})` + "\n";
+				versionBreakdown[j] = `${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})` + "\n";
 			}
 			
-			if(finalMessage.length > 1500)
+			if(finalMessage.length > 1000)
 			{
 				message.channel.send(finalMessage);
 				finalMessage == "";
