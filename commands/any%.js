@@ -75,6 +75,12 @@ module.exports = {
 			for(var j = 0; j < versionBreakdown.length; j++)
 				finalMessage += versionBreakdown[j];
 			finalMessage += "\n";
+			
+			if(finalMessage.length > 1750)
+			{
+				message.channel.send(finalMessage);
+				finalMessage == "";
+			}
 		}
 		
 		for(var i = 0; i < verOwned.length; i++)
