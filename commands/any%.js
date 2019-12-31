@@ -85,7 +85,7 @@ module.exports = {
 				versionBreakdown[j] = `${fullAcronyms[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})` + "\n";
 			}
 			
-			if(finalMessage.length > 1750)
+			if(finalMessage.length > 1500)
 			{
 				message.channel.send(finalMessage);
 				finalMessage = "";
