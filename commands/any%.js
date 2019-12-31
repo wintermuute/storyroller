@@ -67,7 +67,7 @@ module.exports = {
 				
 				var percentage = ((ownedList[i][j]/totalsList[i][j]) * 100).toFixed(2);
 				
-				versionBreakdown[j] = `${fullGames[i]} V${j + !}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})`;
+				versionBreakdown[j] = `${fullGames[i]} V${j + 1}: ${percentage}% (${ownedList[i][j]}/${totalsList[i][j]})`;
 			}
 			
 			finalMessage = `You own ${((gameTotalOwned/gameTotalPrinted) * 100).toFixed(2)}% (${gameTotalOwned}/${gameTotalPrinted}) of all ${fullGames[i]} books.` + "\n" + "\n"; 
