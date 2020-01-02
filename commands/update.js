@@ -1,6 +1,3 @@
-const { prefix } = require('../config.json');
-var fs = require('fs');
-
 module.exports = {
 	name: 'update',
 	description: 'test',
