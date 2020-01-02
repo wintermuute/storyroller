@@ -459,7 +459,7 @@
         "book": 2226,
         "title": "World of Darkness 2nd Edition",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "World of Darkness",
         "gameAcronym": "WOD"
     },
@@ -1347,7 +1347,7 @@
         "book": 2930,
         "title": "Killing Streets ",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Kindred of the East",
         "gameAcronym": "KotE"
     },
