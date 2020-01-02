@@ -1,7 +1,9 @@
 module.exports = {
 	name: 'update',
-	description: 'test',
+	description: 'Gives an explination of the bot',
 	execute(message, args) {
-		message.channel.send("Storyroller successfully updated to display this message!");
+		message.channel.send(
+		"Storyroller was updated"
+		);
 	},
 };
