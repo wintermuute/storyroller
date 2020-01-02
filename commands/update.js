@@ -1,6 +1,5 @@
 const { prefix } = require('../config.json');
 var fs = require('fs');
-var imgPath = './commands/commandmedia/setite/';
 
 module.exports = {
 	name: 'update',
