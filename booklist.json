@@ -1683,7 +1683,7 @@
         "book": 3103,
         "title": "Dark Alliance: Vancouver",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
