@@ -3059,7 +3059,7 @@
         "book": 6011,
         "title": "Guildbook: Masquers",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3131,7 +3131,7 @@
         "book": 6102,
         "title": "Mediums: Speakers with the Dead",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
