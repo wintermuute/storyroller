@@ -1947,7 +1947,7 @@
         "book": 3404,
         "title": "Chronicle of the Black Labyrinth",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
