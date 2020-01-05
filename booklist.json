@@ -539,7 +539,7 @@
         "book": 2251,
         "title": "Book of Nod",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
