@@ -915,7 +915,7 @@
         "book": 2441,
         "title": "Kindred of the Ebony Kingdom",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -1627,7 +1627,7 @@
         "book": 3082,
         "title": "Ananasi ",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
