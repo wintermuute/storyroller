@@ -12,6 +12,7 @@ module.exports = {
 		var titles = "";
 		var plural = "is";
 		var found = false;
+		var foundNum = 0;
 				
 		var spacer = "";
 		//searches through booklist, marks any found books as owned
@@ -32,10 +33,15 @@ module.exports = {
 					
 					booklist[i].owned = true;
 					found = true;
+					foundNum++;
 					
 					titles += (spacer + booklist[i].title);
 				}
+				if(foundNum == args.length)
+					return;
 			}
+			if(foundNum == args.length)
+				return;
 		}
 		
 		//Sends appropriate message with proper tense and plurality

@@ -59,6 +59,7 @@ module.exports = {
 		else if (wodAliases.includes(game))
 			game = "World of Darkness";
 		
+		//error handling
 		if(!fullGames.includes(game) && !game == "")
 		{
 			console.dir("findgame.js attempted input: " + game)
@@ -66,6 +67,7 @@ module.exports = {
 			return;
 		}
 		
+		//Formats and records all owned books fitting the argument criteria
 		for(var i = 0; i < booklist.length; i++)
 		{
 			if(booklist[i].owned)
@@ -74,23 +76,27 @@ module.exports = {
 						titles += (`${booklist[i].title} (${booklist[i].gameAcronym} V${booklist[i].version}),  WW${booklist[i].book}\n`);
 		}
 		
+		//Outputs owned books as a message, breaks it into multiple if the message length would exceed 2000
 		if(titles == "")
 			message.channel.send(`Sorry, but no books were found.`);
 		else
 		{
 			var titlearr = titles.split('\n');
+			var nextTitle = 1;
 			titles = `Your current collection includes: \n`;
 			
 			for(var i = 0; i < titlearr.length; i++)
 			{
+				if(titlearr.length != nextTitle + 1)
+					nextTitle++;
 				titles += (titlearr[i] + '\n');
-				if(titles.length > 1700 || titlearr.length - 1 == i)
+				
+				if((titles.length + titlearr[nextTitle]) > 2000 || titlearr.length - 1 == i)
 				{
 					message.channel.send(titles);
 					titles = "";
 				}
 			}
 		}
-			
 	}
 };

@@ -12,19 +12,15 @@ module.exports = {
 		var titles = "";
 		var found = false;
 				
-		//searches through booklist, marks any found books as owned
 		for(var i = 0; i < booklist.length; i++)
 		{
-			for(var j = 0; j < args.length; j++)
+			if(args[0].toLowerCase() == booklist[i].book.toLowerCase())
 			{
-				if(args[j].toLowerCase() == booklist[i].book.toLowerCase())
-				{
-					var ownership = "Unowned";
-					if(booklist[i].owned == true)
-						ownership = "Owned";
-					titles += (`${booklist[i].title} (${booklist[i].gameAcronym} V${booklist[i].version}), Status: ${ownership}\n`);
-					found = true;
-				}
+				var ownership = "Unowned";
+				if(booklist[i].owned == true)
+					ownership = "Owned";
+				titles += (`${booklist[i].title} (${booklist[i].gameAcronym} V${booklist[i].version}), Status: ${ownership}\n`);
+				found = true;
 			}
 		}
 		

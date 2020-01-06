@@ -83,12 +83,16 @@ module.exports = {
 		else
 		{
 			var titlearr = titles.split('\n');
-			titles = `Based on that, I found: \n`;
+			var nextTitle = 1;
+			titles = `Based on that I found: \n`;
 			
 			for(var i = 0; i < titlearr.length; i++)
 			{
+				if(titlearr.length != nextTitle + 1)
+					nextTitle++;
 				titles += (titlearr[i] + '\n');
-				if(titles.length > 1700 || titlearr.length - 1 == i)
+				
+				if((titles.length + titlearr[nextTitle]) > 2000 || titlearr.length - 1 == i)
 				{
 					message.channel.send(titles);
 					titles = "";
