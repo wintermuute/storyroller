@@ -38,10 +38,10 @@ module.exports = {
 					titles += (spacer + booklist[i].title);
 				}
 				if(foundNum == args.length)
-					return;
+					j = args.length;
 			}
 			if(foundNum == args.length)
-				return;
+				i = booklist.length;
 		}
 		
 		//Sends appropriate message with proper tense and plurality
