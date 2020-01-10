@@ -1539,7 +1539,7 @@
         "book": 3069,
         "title": "Rage Across the World Volume 1",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
