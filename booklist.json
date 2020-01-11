@@ -2547,7 +2547,7 @@
         "book": 4062,
         "title": "Tradition Book: Dreamspeakers (1st Edition)",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
