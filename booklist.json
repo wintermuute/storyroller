@@ -675,7 +675,7 @@
         "book": 2354,
         "title": "Clanbook: Nosferatu (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -1019,7 +1019,7 @@
         "book": 2805,
         "title": "Clanbook: Cappadocian",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
