@@ -3147,7 +3147,7 @@
         "book": 6200,
         "title": "Necropolis: Atlanta",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
