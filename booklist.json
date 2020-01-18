@@ -2699,7 +2699,7 @@
         "book": 4301,
         "title": "Hidden Lore: Second Edition Screen and Book",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
