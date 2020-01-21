@@ -3075,7 +3075,7 @@
         "book": 6013,
         "title": "Shadow Players Guide",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3179,7 +3179,7 @@
         "book": 6303,
         "title": "Guildbook: Haunters",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3203,7 +3203,7 @@
         "book": 6600,
         "title": "Wraith: The Oblivion (2nd Edition)",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
