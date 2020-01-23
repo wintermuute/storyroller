@@ -2963,7 +2963,7 @@
         "book": 5001,
         "title": "Book of the Damned",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
