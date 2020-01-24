@@ -2587,7 +2587,7 @@
         "book": 4201,
         "title": "Technocracy: Progenitors",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -3651,7 +3651,7 @@
         "book": 8133,
         "title": "Hunter: Utopia",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Hunter: The Reckoning",
         "gameAcronym": "HTR"
     },
@@ -3891,7 +3891,7 @@
         "book": 20031,
         "title": "Road of Kings",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
