@@ -1995,7 +1995,7 @@
         "book": 3704,
         "title": "Wild West Companion",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
