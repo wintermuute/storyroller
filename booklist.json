@@ -499,7 +499,7 @@
         "book": 2233,
         "title": "Elysium: The Elder Way",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
