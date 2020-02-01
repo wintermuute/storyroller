@@ -475,7 +475,7 @@
         "book": 2228,
         "title": "World of Darkness: Mafia",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "World of Darkness",
         "gameAcronym": "WOD"
     },
