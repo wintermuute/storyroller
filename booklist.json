@@ -2795,7 +2795,7 @@
         "book": 4657,
         "title": "Tradition Book: Akashic Brotherhood (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
