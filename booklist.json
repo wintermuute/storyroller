@@ -1363,7 +1363,7 @@
         "book": 2999,
         "title": "Gehenna",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
