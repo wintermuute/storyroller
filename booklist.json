@@ -2603,7 +2603,7 @@
         "book": 4203,
         "title": "Technocracy: New World Order",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
