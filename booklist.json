@@ -1387,7 +1387,7 @@
         "book": 3002,
         "title": "Rite of Passage",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
