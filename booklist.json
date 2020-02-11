@@ -1307,7 +1307,7 @@
         "book": 2907,
         "title": "Dharma Book: Thrashing Dragons",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Kindred of the East",
         "gameAcronym": "KotE"
     },
@@ -1867,7 +1867,7 @@
         "book": 3211,
         "title": "Subsidiaries: A Guide to Pentex",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -2003,7 +2003,7 @@
         "book": 3705,
         "title": "Tales from the Trails: Mexico",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
