@@ -4011,7 +4011,7 @@
         "book": 21012,
         "title": "Orphan-Grinders",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Orpheus",
         "gameAcronym": "Orpheus"
     },
