@@ -1315,7 +1315,7 @@
         "book": 2908,
         "title": "Dharma Book: Resplendent Cranes",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Kindred of the East",
         "gameAcronym": "KotE"
     },
