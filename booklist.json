@@ -1339,7 +1339,7 @@
         "book": 2922,
         "title": "Heresies of the Way",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Kindred of the East",
         "gameAcronym": "KotE"
     },
