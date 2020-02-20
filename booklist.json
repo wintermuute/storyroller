@@ -1643,7 +1643,7 @@
         "book": 3084,
         "title": "Nagah",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
