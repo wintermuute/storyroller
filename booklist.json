@@ -3691,7 +3691,7 @@
         "book": 8138,
         "title": "Hunter: Urban Legends",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Hunter: The Reckoning",
         "gameAcronym": "HTR"
     },
