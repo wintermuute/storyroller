@@ -867,7 +867,7 @@
         "book": 2428,
         "title": "Caine's Chosen",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -1027,7 +1027,7 @@
         "book": 2806,
         "title": "Liege, Lord and Lackey",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
@@ -1035,7 +1035,7 @@
         "book": 2807,
         "title": "Libellus Sanguinis I",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
@@ -1131,7 +1131,7 @@
         "book": 2820,
         "title": "Wolves of the Sea",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
@@ -1203,7 +1203,7 @@
         "book": 2830,
         "title": "Libellus Sanguinis IV",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
@@ -1395,7 +1395,7 @@
         "book": 3050,
         "title": "Ways of the Wolf",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -1883,7 +1883,7 @@
         "book": 3213,
         "title": "World of Rage",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -2443,7 +2443,7 @@
         "book": 4045,
         "title": "Dead Magic 1",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -2915,7 +2915,7 @@
         "book": 4805,
         "title": "Sorcerers Crusade Companion",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -3259,7 +3259,7 @@
         "book": 7002,
         "title": "Freeholds and Hidden Glens",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
@@ -3379,7 +3379,7 @@
         "book": 7100,
         "title": "Changeling Players Guide",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
@@ -3803,7 +3803,7 @@
         "book": 20003,
         "title": "Dark Ages: Vampire Storytellers Companion (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
