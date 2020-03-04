@@ -2035,7 +2035,7 @@
         "book": 3802,
         "title": "Werewolf Storytellers Companion (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
