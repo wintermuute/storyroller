@@ -4003,7 +4003,7 @@
         "book": 21011,
         "title": "Shadow Games",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Orpheus",
         "gameAcronym": "Orpheus"
     },
