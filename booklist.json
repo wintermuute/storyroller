@@ -1147,7 +1147,7 @@
         "book": 2822,
         "title": "Clanbook: Salubri ",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
@@ -3667,7 +3667,7 @@
         "book": 8135,
         "title": "Hunter: Fall from Grace",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Hunter: The Reckoning",
         "gameAcronym": "HTR"
     },
