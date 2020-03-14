@@ -219,7 +219,7 @@
         "book": 2090,
         "title": "Giovanni Chronicles I: The Last Supper",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -235,7 +235,7 @@
         "book": 2096,
         "title": "Giovanni Chronicles III: The Sun Has Set",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -291,7 +291,7 @@
         "book": 2104,
         "title": "Succubus Club",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -491,7 +491,7 @@
         "book": 2231,
         "title": "Diablerie",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -699,7 +699,7 @@
         "book": 2358,
         "title": "Clanbook: Ventrue (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -723,7 +723,7 @@
         "book": 2361,
         "title": "Clanbook: Tzimisce (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -747,7 +747,7 @@
         "book": 2364,
         "title": "Clanbook: Ravnos (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -875,7 +875,7 @@
         "book": 2429,
         "title": "Counsel of Primogen",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -891,7 +891,7 @@
         "book": 2431,
         "title": "Red Sign",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -1003,7 +1003,7 @@
         "book": 2803,
         "title": "Constantinople By Night",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
@@ -1051,7 +1051,7 @@
         "book": 2809,
         "title": "Three Pillars",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
@@ -1091,7 +1091,7 @@
         "book": 2814,
         "title": "Transylvania Chronicles 4: The Dragon Ascendant",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -1707,7 +1707,7 @@
         "book": 3106,
         "title": "Rage Across Australia",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -1739,7 +1739,7 @@
         "book": 3110,
         "title": "Rage Across the Heavens",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -1811,7 +1811,7 @@
         "book": 3204,
         "title": "Umbra: The Velvet Shadow",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -2251,7 +2251,7 @@
         "book": 4002,
         "title": "Loom of Fate",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -2275,7 +2275,7 @@
         "book": 4005,
         "title": "Ascension’s Right Hand",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -2299,7 +2299,7 @@
         "book": 4008,
         "title": "Tradition Book: Celestial Chorus (1st Edition)",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -2371,7 +2371,7 @@
         "book": 4017,
         "title": "Masters of the Art",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -2395,7 +2395,7 @@
         "book": 4021,
         "title": "Tales of Magick: Dark Adventure",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -2403,7 +2403,7 @@
         "book": 4030,
         "title": "Lost Paths: Ahl-i-Batin & Taftâni",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -2859,7 +2859,7 @@
         "book": 4665,
         "title": "Tradition Book: Celestial Chorus (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -3307,7 +3307,7 @@
         "book": 7009,
         "title": "Changeling Storytellers Guide",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
@@ -3387,7 +3387,7 @@
         "book": 7200,
         "title": "Immortal Eyes 1: The Toybox",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
