@@ -3003,7 +3003,7 @@
         "book": 6004,
         "title": "Love Beyond Death",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
