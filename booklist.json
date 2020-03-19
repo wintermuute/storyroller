@@ -635,7 +635,7 @@
         "book": 2304,
         "title": "Vampire Storytellers Handbook (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
