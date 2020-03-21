@@ -2571,7 +2571,7 @@
         "book": 4101,
         "title": "Chaos Factor",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -3451,7 +3451,7 @@
         "book": 7306,
         "title": "Kingdom of Willows",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
