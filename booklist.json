@@ -603,7 +603,7 @@
         "book": 2300,
         "title": "Vampire: The Masquerade (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -795,7 +795,7 @@
         "book": 2412,
         "title": "Mexico City by Night",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -803,7 +803,7 @@
         "book": 2420,
         "title": "Gilded Cage",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
