@@ -2435,7 +2435,7 @@
         "book": 4044,
         "title": "Bitter Road",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
