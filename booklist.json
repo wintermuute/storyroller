@@ -2147,7 +2147,7 @@
         "book": 3855,
         "title": "Tribebook: Get of Fenris (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
