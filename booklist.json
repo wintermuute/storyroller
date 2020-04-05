@@ -987,7 +987,7 @@
         "book": 2801,
         "title": "Vampire: The Dark Ages Storytellers Screen",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
