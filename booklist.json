@@ -2995,7 +2995,7 @@
         "book": 6003,
         "title": "Book of Legions",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3115,7 +3115,7 @@
         "book": 6100,
         "title": "Wraith Character Kit",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
