@@ -667,7 +667,7 @@
         "book": 2353,
         "title": "Clanbook: Malkavian (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
