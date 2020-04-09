@@ -3,7 +3,7 @@
         "book": 2000,
         "title": "Vampire: The Masquerade (1st Edition)",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
