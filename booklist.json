@@ -2987,7 +2987,7 @@
         "book": 6002,
         "title": "Wraith Storytellers Screen",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
