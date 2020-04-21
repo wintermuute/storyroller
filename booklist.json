@@ -835,7 +835,7 @@
         "book": 2424,
         "title": "Guide to the Anarchs",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -939,7 +939,7 @@
         "book": 2471,
         "title": "London by Night",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -1059,7 +1059,7 @@
         "book": 2810,
         "title": "Clash of Wills",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
@@ -3107,7 +3107,7 @@
         "book": 6065,
         "title": "Renegades",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3155,7 +3155,7 @@
         "book": 6300,
         "title": "Guildbook: Artificers",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3187,7 +3187,7 @@
         "book": 6304,
         "title": "Guildbook: Puppeteers and Pardoners",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
@@ -3331,7 +3331,7 @@
         "book": 7051,
         "title": "Kithbook: Sluagh",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
@@ -3939,7 +3939,7 @@
         "book": 20047,
         "title": "Dark Ages: Devil’s Due",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
