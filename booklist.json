@@ -3219,7 +3219,7 @@
         "book": 6800,
         "title": "Wraith: The Great War",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
