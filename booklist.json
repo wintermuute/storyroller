@@ -1211,7 +1211,7 @@
         "book": 2832,
         "title": "Veil of Night",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
@@ -3339,7 +3339,7 @@
         "book": 7052,
         "title": "Kithbook: Nockers",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
