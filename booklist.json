@@ -931,7 +931,7 @@
         "book": 2470,
         "title": "Victorian Age: Vampire",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
