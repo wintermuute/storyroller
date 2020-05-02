@@ -859,7 +859,7 @@
         "book": 2427,
         "title": "State of Grace",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
