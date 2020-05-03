@@ -2723,7 +2723,7 @@
         "book": 4600,
         "title": "Mage: The Ascension (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
