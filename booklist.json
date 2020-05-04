@@ -2691,7 +2691,7 @@
         "book": 4300,
         "title": "Mage: The Ascension (2nd Edition)",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
@@ -3283,7 +3283,7 @@
         "book": 7006,
         "title": "Nobles: The Shining Host",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
@@ -3427,7 +3427,7 @@
         "book": 7303,
         "title": "Dreams and Nightmares",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
@@ -3459,7 +3459,7 @@
         "book": 7307,
         "title": "Inanimae: The Secret Way",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
