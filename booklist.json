@@ -3483,7 +3483,7 @@
         "book": 7310,
         "title": "Denizens of the Dreaming",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
