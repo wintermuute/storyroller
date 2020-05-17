@@ -3011,7 +3011,7 @@
         "book": 6005,
         "title": "Face of Death",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Wraith: The Oblivion",
         "gameAcronym": "WTO"
     },
