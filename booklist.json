@@ -923,7 +923,7 @@
         "book": 2460,
         "title": "Ventrue Chronicle",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -3363,7 +3363,7 @@
         "book": 7055,
         "title": "Kithbook: Redcaps",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
