@@ -1715,7 +1715,7 @@
         "book": 3107,
         "title": "Rage Across Appalachia",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
