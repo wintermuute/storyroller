@@ -1371,7 +1371,7 @@
         "book": 3000,
         "title": "Werewolf: The Apocalypse (1st Edition)",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
