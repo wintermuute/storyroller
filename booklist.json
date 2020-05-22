@@ -2187,7 +2187,7 @@
         "book": 3860,
         "title": "Tribebook: Silver Fangs (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
