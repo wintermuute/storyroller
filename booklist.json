@@ -1547,7 +1547,7 @@
         "book": 3070,
         "title": "Rage Across the World Volume 2",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -3323,7 +3323,7 @@
         "book": 7050,
         "title": "Kithbook: Trolls",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
