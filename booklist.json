@@ -2651,7 +2651,7 @@
         "book": 4251,
         "title": "Book of Madness (1st Edition)",
         "version": 1,
-        "owned": false,
+        "owned": true,
         "game": "Mage: The Ascension",
         "gameAcronym": "MTA"
     },
