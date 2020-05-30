@@ -59,7 +59,7 @@
         "book": 2010,
         "title": "Diablerie: Britain",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -323,7 +323,7 @@
         "book": 2203,
         "title": "Chicago by Night (2nd Edition)",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
