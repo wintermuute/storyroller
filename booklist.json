@@ -3779,7 +3779,7 @@
         "book": 20000,
         "title": "Dark Ages: Vampire (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
