@@ -3443,7 +3443,7 @@
         "book": 7305,
         "title": "Book of Houses (Noblesse Oblige)",
         "version": 2,
-        "owned": false,
+        "owned": true,
         "game": "Changeling: The Dreaming",
         "gameAcronym": "CTD"
     },
