@@ -3603,7 +3603,7 @@
         "book": 8113,
         "title": "Hunter Book: Wayward",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Hunter: The Reckoning",
         "gameAcronym": "HTR"
     },
