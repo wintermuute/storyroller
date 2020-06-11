@@ -3723,7 +3723,7 @@
         "book": 8203,
         "title": "Houses of the Fallen",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Demon: The Fallen",
         "gameAcronym": "DTF"
     },
