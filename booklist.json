@@ -731,7 +731,7 @@
         "book": 2362,
         "title": "Clanbook: Lasombra (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -1747,7 +1747,7 @@
         "book": 3111,
         "title": "Umbra (Revised Edition)",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
@@ -2091,7 +2091,7 @@
         "book": 3812,
         "title": "Book of Auspices",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
