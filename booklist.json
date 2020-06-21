@@ -1067,7 +1067,7 @@
         "book": 2811,
         "title": "Transylvania Chronicles 1: Dark Tides Rising",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Masquerade",
         "gameAcronym": "VTM"
     },
@@ -2019,7 +2019,7 @@
         "book": 3800,
         "title": "Werewolf: The Dark Ages",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
