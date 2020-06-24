@@ -3755,7 +3755,7 @@
         "book": 8270,
         "title": "Fear to Tread",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Demon: The Fallen",
         "gameAcronym": "DTF"
     },
