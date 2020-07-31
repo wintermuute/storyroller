@@ -1875,7 +1875,7 @@
         "book": 3212,
         "title": "Guardians of the Caerns",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Werewolf: The Apocalypse",
         "gameAcronym": "WTA"
     },
