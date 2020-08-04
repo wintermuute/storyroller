@@ -3811,7 +3811,7 @@
         "book": 20004,
         "title": "Dark Ages: Inquisitor",
         "version": 3,
-        "owned": false,
+        "owned": true,
         "game": "Vampire: The Dark Ages",
         "gameAcronym": "VTDA"
     },
